@@ -5,7 +5,7 @@ this repo consits of code that I wrote using HTML5 and Tailwind css to demonstra
 
 ## tech stach  used:
 
-in this simple project I used [grid] to make the cards more responsive.
+in this simple project I used <b>grid</b> design approach to make the cards more responsive.
 
 ## live url:
 live site :[here](https://responsive-cards-jr.netlify.app/)
